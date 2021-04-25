@@ -10,7 +10,8 @@ C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 - [Instagram](https://www.instagram.com/charlie_lee_rhee/)<br>
 - [Skype](https://join.skype.com/invite/vttzdWjcjOxG) (Seriously?)<br>
 
-그 외에 다른 SNS 같은거는 안합니다....<br><br>
+그 외에 다른 SNS 같은거는 안합니다....<br>
+아 피곤하다<br><br>
 
 Yeah, I know that your github is supposed to act like your resume and stuff, but honestly, I have no experience or whatever, so thinking about this stuff makes me sad.
 
