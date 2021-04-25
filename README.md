@@ -15,7 +15,7 @@ C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 
 Yeah, I know that your github is supposed to act like your resume and stuff, but honestly, I have no experience or whatever, so thinking about this stuff makes me sad.
 
-<sub><sup><sub><sup>TBH I drown out the endless loneliness by making stupid shit, which gives me a small, fleeting sensation of validation when the stupid thing actually works, but most of the time, i'm too unmotivated to finish what i started, resulting in lots of failed/unfinished projects all around my room, which gives me more feelings of hpoelessness. I just want to be loved.</sup></sub></sup></sub>
+<sub><sup><sub><sup>TBH I drown out the endless loneliness by making stupid shit, which gives me a small, fleeting sensation of validation when the stupid thing actually works, but most of the time, i'm too unmotivated to finish what i started, resulting in lots of failed/unfinished projects all around my room, which gives me more feelings of hopelessness. I just want to be loved.</sup></sub></sup></sub>
 
 <!--
 **charlielee206/charlielee206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
