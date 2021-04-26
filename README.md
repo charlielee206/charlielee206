@@ -3,22 +3,22 @@
 C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 3D 프린터 잘 다룹니다. Fusion 360 으로 모델링 할 수 있습니다만은 자신은 없습니다.<br>
 
-<details>
-<summary>Title</summary>
-<br>
-Stuff
-</details>
 
-### Tools Used:
-### Programs
-#### Programming/Editors
-- VSCode<br>
+
+### Tools and stuff I use:
+<details>
+ <summary><h3>Software</h3></summary>
+
+**Programming/Editors**<br>
+
+- VSCode
 > Most of the work is done here. I use PlatformIO to do the microcontroller stuff.<be>
 - Arduino IDE<br>
 > Use to quickly check stuff without creating a whole new project in PlatformIO.<br>
 > Simple. Elegant. It just works.<br>
-- Notepad<br>
-> Used to check different files in a pinch.<br>
+- Notepad
+> Used to check different files in a pinch.<br><br>
+ 
 #### 3D modeling & Printing
 - Fusion 360
 > Most of the heavy lifting is done here. Say whatever you want about their business model, but you have to admit that autodesk makes some good software.
@@ -30,15 +30,18 @@ Stuff
 > Used to fix non-manifold models, and prepare them for printing.
 - Cura
 > My go-to slicer.
-
-### Hardware
+ </details>
+ 
+<details>
+ <summary><h3>Hardware</h3></summary> 
+ 
 - Peanut MK.I
 > LITERALLY a piece of junk. The design is from 2013 ffs. And it's not even a proper peanut. Built from broken, bottom-of-the-barrel parts and broken acryllic pieces. <br>
 > But it still chugs on, and I think that's nice. Has Horrible z-artifacts, but is still useable after all these years. After all it's been through, it's basically a war veteran at this point.<br>
 > Mods: 2020 extrusion frame, heated bed, Octoprint and firmware upgrade. Also, general parts swap and maintenance.  
 - VORON V0
 > WIP.<br>
- 
+ </details>
 
 
 ### Contacts <sub><sup>and stuff</sup></sub>
@@ -69,4 +72,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<details>
+<summary>Heading</summary>
+
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
+</details>
+
 -->
