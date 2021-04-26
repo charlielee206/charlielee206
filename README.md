@@ -5,10 +5,25 @@ C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 
 ### Tools Used:
 #### Programs
--Programming:
-> VSCode<br>
-> Arduino IDE<br>
->  Notepad<br>
+##### Programming/Editors
+- VSCode<br>
+> Most of the work is done here. I use PlatformIO to do the microcontroller stuff.<be>
+- Arduino IDE<br>
+> Use to quickly check stuff without creating a whole new project in PlatformIO.<br>
+> Simple. Elegant. It just works.<br>
+- Notepad<br>
+> Used to check different files in a pinch.<br>
+##### 3D modeling & Printing
+- Fusion 360<br>
+> Most of the heavy lifting is done here. Say whatever you want about their business model, but you have to admit that autodesk makes some good software.<br>
+- FreeCAD<br>
+> Plan B. I'm still teaching myself FreeCAD, but it's hard.<br>
+- Meshmixer<br>
+> Used to edit STL files.<br>
+- Blender<br>
+> Used to fix non-manifold models, and prepare them for printing.
+
+
 
 ### Contacts <sub><sup>and stuff</sup></sub>
 - [Thingiverse](https://www.thingiverse.com/charlie_lee_rhee/designs)<br>
