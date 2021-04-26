@@ -7,7 +7,7 @@ C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 
 ### Tools and stuff I use:
 <details>
- <summary><h3>Software</h3></summary>
+ <summary><b>Software</b></summary>
 
 **Programming/Editors**<br>
 
@@ -33,7 +33,7 @@ C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
  </details>
  
 <details>
- <summary><h3>Hardware</h3></summary> 
+ <summary><b>Hardware</b></summary> 
  
 - Peanut MK.I
 > LITERALLY a piece of junk. The design is from 2013 ffs. And it's not even a proper peanut. Built from broken, bottom-of-the-barrel parts and broken acryllic pieces. <br>
