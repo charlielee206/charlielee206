@@ -3,6 +3,13 @@
 C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 3D 프린터 잘 다룹니다. Fusion 360 으로 모델링 할 수 있습니다만은 자신은 없습니다.<br>
 
+### Tools Used:
+#### Programs
+-Programming:
+> VSCode<br>
+> Arduino IDE<br>
+>  Notepad<br>
+
 ### Contacts <sub><sup>and stuff</sup></sub>
 - [Thingiverse](https://www.thingiverse.com/charlie_lee_rhee/designs)<br>
 - Discord: Charlie_Lee_Rhee#3202 (IDK How to make a direct friend/DM link)<br>
