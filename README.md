@@ -40,6 +40,8 @@ C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 > But it still chugs on, and I think that's nice. Has Horrible z-artifacts, but is still useable after all these years. After all it's been through, it's basically a war veteran at this point.<br>
 > Mods: 2020 extrusion frame, heated bed, Octoprint and firmware upgrade. Also, general parts swap and maintenance.  
 - VORON V0
+> Still needs tuning.
+- Hypercube Evolution
 > WIP.<br>
  </details>
 
