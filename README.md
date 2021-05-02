@@ -41,7 +41,7 @@ C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 > Mods: 2020 extrusion frame, heated bed, Octoprint and firmware upgrade. Also, general parts swap and maintenance.  
 - VORON V0
 > The print quality is just. *kisses air* Mwah! Mmmh! Yeah,Boi It's the good stuff. but hoLY FUCK ITS SO LOUD WHAT THE FUCK WHY THE FUCK WHAT WHY HOW If I print over 40mm/s (Which I admit, is sorta slightly speedy for a stock v6 hotend) the thing starts bweeping like a geriatric fax machine from the 80's like WOW <br>
-> Also, the 30mm fan is SO LOUD WHAT IS THIS A JET ENGINE? It goes SHWWWEEEEEEEEWWWWWWWWWWWWRRRRRRRRRRRRRRWWWWWWWWWWWEEEEEEEEEEESSSSSSHHHHHHHHHHH AND I CANT HEAR MY SELF THINK ITS AS IF IM IN A JET ENGINE WIND TUNNEL<br>
+> Also, the 30mm fan is SO LOUD WHAT IS THIS A JET ENGINE? It goes SHWWWEEEWWWWWWRRRRWWWWWEEESSSSHHHHHH AND I CANT HEAR MY SELF THINK ITS AS IF IM IN A JET ENGINE WIND TUNNEL<br>
 > But yeah, amazing print quality, 10/10 would build again.
 - Hypercube Evolution
 > WIP.<br>
