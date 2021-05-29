@@ -56,7 +56,7 @@ C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 - [Skype](https://join.skype.com/invite/vttzdWjcjOxG) (Seriously?)<br>
 - Reddit : lol no. I'm horny on main. 
  <br>
- <sub><sup><sub><sup> - [PayPal](paypal.me/CharlieLeeRhee) (Why?)<br></sup></sub></sup></sub>
+ <sub><sup><sub><sup> [PayPal](paypal.me/CharlieLeeRhee)(Why?) <br></sup></sub></sup></sub>
 그 외에 다른 SNS 같은거는 안합니다....<br>
 아 피곤하다<br><br>
 
