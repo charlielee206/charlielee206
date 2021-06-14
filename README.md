@@ -27,7 +27,7 @@ C++ 조금 할 수 있습니다. 아두이노도 조금 할 수 있고요.<br>
 - Meshmixer
 > Used to edit STL files.
 - Microsoft 3D Builder
-> One of the most underrated 3D mesh programs in existance. The auto-fix tool is one of the fastest and easiest way to fix non-manifold models. Yes, it's worse than going into blender/meshmixer and manually editing each and evry polygon, but honestly, the output is usually very nice, and almost always useable. 
+> One of the most underrated 3D mesh programs in existance. The auto-fix tool is one of the fastest and easiest way to fix non-manifold models. Yes, it's worse than going into blender/meshmixer and manually editing each and every polygon, but honestly, the output is usually very nice, and almost always useable. 
 - Blender
 > Used to fix non-manifold models, and prepare them for printing.
 - Cura
