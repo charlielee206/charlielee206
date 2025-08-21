@@ -54,7 +54,6 @@ I will probably upload 3D models to my [Thingiverse](https://www.thingiverse.com
 ### Contacts <sub><sup>and stuff</sup></sub>
 - [Thingiverse](https://www.thingiverse.com/charlie_lee_rhee/designs)<br>
 - Discord: Charlie_Lee_Rhee#3202 (IDK How to make a direct friend/DM link)<br>
-- [슨팀](https://steamcommunity.com/id/charlie_lee_rhee/)<br>
 - [Instagram](https://www.instagram.com/charlie_lee_rhee/)<br>
  <br>
  
