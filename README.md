@@ -57,9 +57,6 @@ I will probably upload 3D models to my [Thingiverse](https://www.thingiverse.com
 - [Instagram](https://www.instagram.com/charlie_lee_rhee/)<br>
  <br>
  
- <sub><sup><sub><sup> 
-  [PayPal](https://www.paypal.com/paypalme/CharlieLeeRhee)(Why?) <br></sup></sub></sup></sub>
-<br>
 <br><br>
 
 Yeah, I know that your github is supposed to act like your resume and stuff, but honestly, I have no experience or whatever, so thinking about this stuff makes me sad.
