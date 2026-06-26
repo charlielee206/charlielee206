@@ -51,14 +51,6 @@ I will probably upload 3D models to my [Thingiverse](https://www.thingiverse.com
  </details>
 
 
-### Contacts <sub><sup>and stuff</sup></sub>
-- [Thingiverse](https://www.thingiverse.com/charlie_lee_rhee/designs)<br>
-- Discord: Charlie_Lee_Rhee#3202 (IDK How to make a direct friend/DM link)<br>
-- [Instagram](https://www.instagram.com/charlie_lee_rhee/)<br>
- <br>
- 
-<br><br>
-
 Yeah, I know that your github is supposed to act like your resume and stuff, but honestly, I have no experience or whatever, so thinking about this stuff makes me sad.
 Im just a stupid idiot someone please adopt me
 
